@@ -34,3 +34,5 @@ pypresence
 beautifulsoup4
 flask
 local-attention
+gdown
+pyngrok
