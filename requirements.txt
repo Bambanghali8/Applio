@@ -36,3 +36,4 @@ flask
 local-attention
 gdown
 pyngrok
+wget
