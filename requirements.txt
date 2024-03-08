@@ -2,8 +2,6 @@
 ffmpeg-python>=0.2.0
 numpy==1.23.5
 requests==2.31.0
-tqdm
-wget
 
 # Audio processing
 faiss-cpu==1.7.3
@@ -25,7 +23,6 @@ torchvision==0.16.1
 einops
 
 # Visualization
-matplotlib==3.7.2
 tensorboard
 gradio==4.14.0
 
